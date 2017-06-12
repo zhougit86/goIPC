@@ -47,6 +47,7 @@ func (server *IpcServer) Connect() chan string {
 		}
 		fmt.Println("Session closed.")
 	}(session)
+
 	fmt.Println("A new session has been created successfully.")
 	return session
 }
