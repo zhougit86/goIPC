@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gamePlat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../juju" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../start" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../todo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../juju" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../start" />
+      <root url="file://$PROJECT_DIR$/../samples" />
+      <root url="file://$PROJECT_DIR$/../todo" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
