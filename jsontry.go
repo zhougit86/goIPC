@@ -3,6 +3,7 @@ package main
 import(
 	"encoding/json"
 	"fmt"
+	//"gamePlat/ipc"
 )
 
 func main()  {
@@ -13,7 +14,7 @@ func main()  {
 	fmt.Println(raw)
 	trans := make([]byte,5)
 	trans,_=json.Marshal(raw)
-	fmt.Println(trans)
+	fmt.Println(string(trans))
 	fmt.Printf("%T\n",trans)
 
 
